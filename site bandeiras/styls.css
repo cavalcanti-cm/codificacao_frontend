@@ -1,0 +1,84 @@
+.alagoas{
+    display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+
+.alagoas-1{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.alagoas-2{
+    width: 200px;
+    height: 400px;
+    background-image: url(https://www.google.com/imgres?q=png%20bras%C3%A3o%20de%20alagoas&imgurl=https%3A%2F%2Fdados.al.gov.br%2Fcatalogo%2Fdataset%2F93386ee4-4e12-4d24-82ff-3c411d7b9685%2Fresource%2F01cdfd4b-4db4-469a-9df4-773f975fa1b3%2Fdownload%2Fbrasao_de_armas_do_estado_de_alagoas.png&imgrefurl=https%3A%2F%2Fdados.al.gov.br%2Fcatalogo%2Fam%2Fdataset%2Fmapa-politico-administrativo-do-estado-de-alagoas%2Fresource%2F01cdfd4b-4db4-469a-9df4-773f975fa1b3&docid=tKhT4I_JEXF48M&tbnid=5L8qX6k3PY1bWM&vet=12ahUKEwiizcTVpbmIAxUVr5UCHZPjCTAQM3oECBoQAA..i&w=1195&h=1320&hcb=2&ved=2ahUKEwiizcTVpbmIAxUVr5UCHZPjCTAQM3oECBoQAA)   ;
+    background-size: contain;  
+    background-repeat: no-repeat; 
+    background-position: center; 
+    
+}
+
+.alagoas-3{
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+}
+
+.frança{
+
+display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+
+.frança-1{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.frança-2{
+    width: 200px;
+    height: 400px;
+    background-image: url(https://www.google.com/imgres?q=png%20bras%C3%A3o%20de%20alagoas&imgurl=https%3A%2F%2Fdados.al.gov.br%2Fcatalogo%2Fdataset%2F93386ee4-4e12-4d24-82ff-3c411d7b9685%2Fresource%2F01cdfd4b-4db4-469a-9df4-773f975fa1b3%2Fdownload%2Fbrasao_de_armas_do_estado_de_alagoas.png&imgrefurl=https%3A%2F%2Fdados.al.gov.br%2Fcatalogo%2Fam%2Fdataset%2Fmapa-politico-administrativo-do-estado-de-alagoas%2Fresource%2F01cdfd4b-4db4-469a-9df4-773f975fa1b3&docid=tKhT4I_JEXF48M&tbnid=5L8qX6k3PY1bWM&vet=12ahUKEwiizcTVpbmIAxUVr5UCHZPjCTAQM3oECBoQAA..i&w=1195&h=1320&hcb=2&ved=2ahUKEwiizcTVpbmIAxUVr5UCHZPjCTAQM3oECBoQAA)   ;
+    background-size: contain;  
+    background-repeat: no-repeat; 
+    background-position: center; 
+    
+}
+
+.frança-3{
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+}
+
+.italia{
+    display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+
+.italia-1{
+    width: 150px;
+    height: 300px;
+    background-color: forestgreen;
+}
+
+.italia-2{
+    width: 150px;
+    height: 400px;
+    background-image: url(https://www.google.com/imgres?q=png%20bras%C3%A3o%20de%20alagoas&imgurl=https%3A%2F%2Fdados.al.gov.br%2Fcatalogo%2Fdataset%2F93386ee4-4e12-4d24-82ff-3c411d7b9685%2Fresource%2F01cdfd4b-4db4-469a-9df4-773f975fa1b3%2Fdownload%2Fbrasao_de_armas_do_estado_de_alagoas.png&imgrefurl=https%3A%2F%2Fdados.al.gov.br%2Fcatalogo%2Fam%2Fdataset%2Fmapa-politico-administrativo-do-estado-de-alagoas%2Fresource%2F01cdfd4b-4db4-469a-9df4-773f975fa1b3&docid=tKhT4I_JEXF48M&tbnid=5L8qX6k3PY1bWM&vet=12ahUKEwiizcTVpbmIAxUVr5UCHZPjCTAQM3oECBoQAA..i&w=1195&h=1320&hcb=2&ved=2ahUKEwiizcTVpbmIAxUVr5UCHZPjCTAQM3oECBoQAA)   ;
+    background-size: contain;  
+    background-repeat: no-repeat; 
+    background-position: center; 
+    
+}
+
+.italia-3{
+    width: 150px;
+    height: 300px;
+    background-color: red;
+}

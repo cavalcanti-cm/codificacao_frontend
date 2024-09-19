@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    background-color: hsl(30,54%,90);
+    justify-content:center;
+    height: 2000px;
+
+}
+.Principal-container{
+    background-color: white;
+    height: 1800px;
+    width: 700px;
+    padding: 20px;
+    border-radius: 10px;
+    margin:100px
+
+}
+
+.imagem{
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+}
+.título{
+    font-family: "Fanunces", sans-serif;
+
+}
+.Bloco-rosa {
+    background-color: hsl(330,100%, 98%);
+    border-radius: 10px;
+    height: 100px;
+    padding: 10px;
+}
+h2{
+    color: hsl(14, 45%, 36%)
+}
+.lista{
+    margin-left: 18px;
+    
+}

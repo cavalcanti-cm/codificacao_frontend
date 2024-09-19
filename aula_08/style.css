@@ -1,0 +1,15 @@
+
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(86, 126, 35);
+}
+
+p{
+    background-color: rgba(136, 50, 86, 1);
+    color:#fff;
+    font-size: 48px;
+    font-weight: 400;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:it
+}
+
